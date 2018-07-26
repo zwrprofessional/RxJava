@@ -4,13 +4,12 @@ import android.util.Log;
 
 import io.reactivex.Observable;
 import io.reactivex.Observer;
-import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.annotations.NonNull;
 import io.reactivex.disposables.Disposable;
 import io.reactivex.schedulers.Schedulers;
 
 /**
- * Created by singh on 10/12/17.
+ * Created by Zack Robinson on 10/12/17.
  */
 
 public class RxJavaJust {

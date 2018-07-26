@@ -8,7 +8,7 @@ import io.reactivex.annotations.NonNull;
 import io.reactivex.disposables.Disposable;
 
 /**
- * Created by singh on 10/12/17.
+ * Created by Zack Robinson on 10/12/17.
  */
 
 public class RxJavaInterval {

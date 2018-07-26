@@ -10,7 +10,7 @@ import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 /**
- * Created by singh on 10/12/17.
+ * Created by Zack Robinson on 10/12/17.
  */
 
 public class RemoteDataSource {

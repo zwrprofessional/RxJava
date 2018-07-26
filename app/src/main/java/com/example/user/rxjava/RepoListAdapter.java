@@ -16,7 +16,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by singh on 10/12/17.
+ * Created by Zack Robinson on 10/12/17.
  */
 
 public class RepoListAdapter  extends RecyclerView.Adapter<RepoListAdapter.ViewHolder>{

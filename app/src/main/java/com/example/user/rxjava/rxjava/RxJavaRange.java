@@ -8,7 +8,7 @@ import io.reactivex.functions.Function;
 import io.reactivex.functions.Predicate;
 
 /**
- * Created by singh on 10/12/17.
+ * Created by Zack Robinson on 10/12/17.
  */
 
 public class RxJavaRange {
